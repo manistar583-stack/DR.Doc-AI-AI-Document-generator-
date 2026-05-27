@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Doc",
+  "description": "Advanced AI Documentation Engineer and Universal Document Transformer",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
